@@ -41,7 +41,7 @@
     "html-loader": "^5.1.0",
     "html-webpack-plugin": "^5.6.5",
     "less-loader": "^12.3.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "memfs": "4.53.0",
     "mini-svg-data-uri": "^1.4.4",
     "node-polyfill-webpack-plugin": "^4.1.0",
